@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+##Tutorial NEXT JS 13 App Router Untuk Manusia
+
+Apa yang dipelajari dalam video tutorial basic next js 13 ini?
+👉 initial setup
+👉 folder structure
+👉 page routing
+👉 page navigation
+👉 CSS global, module & tailwind
+👉 server component & client component
+👉 typescript interfaces
+👉 API fetching, mapping & caching
+👉 static - dynamic rendering & building
+👉 tips & motivation.
+
 First, run the development server:
 
 ```bash
